@@ -1,13 +1,42 @@
 <h1 align="left">Hello! My name is Frankie!</h1>
 <h3 align="left"> About me</h3>
-<p align="left">✨ I come from a background of 3D Animation. <br>📚 Recently graduated from the Software Engineering program from Brainstaion. <br>🎯 Goals: To work as a front end or a full stack developer.</p>
+<h4>My background...</h4>
+<p>
+✨ I have a B.A. in 3D animation from Emily Carr University <br>
+📚 Recently graduated from BrainStation’s Software Engineering program. <br>
+💻 Skilled in HTML, CSS, JavaScript, and React (and SCSS for styling). <br>
+🌱 Continuously learning and expanding my skill set to successfully develop impactful apps, while taking on challenging projects that push me to grow.
+</p>
+<h4>Currently I'm...</h4> 
+<p>
+🌱 Learning Python, Typescript, and diving deeper into Javascript  <br>
+🛠️ Building my portfolio website and working on a passion project called "St'at'imcets with Kaya"  <br>
+🔭 Engaging in networking events and actively seeking a remote software development role.
+</p>
+<p align="left">
+<h4>🎯 2025 Goals:</h4>
 
+<h5>📚 Education/Learning:</h5>
+<p>
+📚 Master Python for backend development and automation. <br>
+📚 Learn React Native to build cross-platform mobile apps. <br>
+📚 Gain proficiency in TypeScript for more scalable and maintainable code.<br>
+
+<h5>💼 Career:</h5>
+
+💼 Build and deploy scalable, user-friendly web and mobile apps. <br>
+💼 Contribute to open-source projects or collaborate on team-based software. <br>
+💼 Start freelancing or secure a remote software development role. <br>
+💼 Continue improving UI/UX design skills to create more engaging applications. <br>
+💼 Enhance my problem-solving skills through competitive programming (LeetCode, CodeWars). <br>
+💼 Develop and launch a full-stack project that showcases my skills.
 ###
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=frankie-mcdonald&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  /><img width="12" />
+  <img src="https://github-readme-stats.vercel.app/api?username=frankie-mcdonald&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&token=YOUR_GITHUB_TOKEN" height="150" alt="stats graph">
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=frankie-mcdonald&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 <div align="center">
